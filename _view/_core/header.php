@@ -9,7 +9,7 @@
 	<?php require_once(VIEW_DIR.'/_core/header_css.php');?>
         <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie/v8.css" /><![endif]-->
         <!--[if lte IE 8]><script src="assets/css/ie/respond.min.js"></script><![endif]-->
-        <script type="text/javascript">
+        <script type="text/javascript" nonce="29af2i">
         	// this special function can only be declared here
         	var ValidateSubmit = {
 		        isSubmitted: false,
